@@ -1,0 +1,6 @@
+= Wave function collapse
+
+A java implementation based on the
+https://www.youtube.com/watch?v=rI_y2GAlQFM[Coding Train video]
+
+image::docs/img.png[]
